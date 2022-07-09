@@ -1,3 +1,4 @@
 # Build-linux-system
-d
-f
+gjhk
+nioi
+vjh
