@@ -83,7 +83,7 @@ yay -s 软件名
 小企鹅输入法：fcitx
 ![image](https://user-images.githubusercontent.com/75480958/178099929-3f1142b0-d234-4e3c-913b-a1ec081093ac.png)
 
-![alt 属性文本](https://user-images.githubusercontent.com/75480958/178099929-3f1142b0-d234-4e3c-913b-a1ec081093ac.png))
+![alt 嗨嗨嗨嗨](https://user-images.githubusercontent.com/75480958/178099929-3f1142b0-d234-4e3c-913b-a1ec081093ac.png)
 
 
 
