@@ -1,4 +1,4 @@
 # Build-linux-system
-gjhk
+# gjhk
 nioi
 vjh
