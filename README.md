@@ -1,5 +1,5 @@
 # 概述
-本文将教学linux系统的Manjaro kde发行版的安装、源配置、怎么下载想要的软件和美化系统。
+本文将教学linux系统的Manjaro kde发行版的安装、源配置、下载软件和美化系统。
 # 目录
 # 安装
 ## 1.准备材料：
@@ -81,11 +81,15 @@ yay -s 软件名
 进入软件商店，点击 右上角总览-首选项-第三方-启用AUR支持-检查更新
 ### 2.5 推荐软件
 小企鹅输入法：fcitx
-![image](https://user-images.githubusercontent.com/75480958/178099929-3f1142b0-d234-4e3c-913b-a1ec081093ac.png)
-
-![alt 嗨嗨嗨嗨](https://user-images.githubusercontent.com/75480958/178099929-3f1142b0-d234-4e3c-913b-a1ec081093ac.png)
-
-
-
+![哈哈](https://user-images.githubusercontent.com/75480958/178099929-3f1142b0-d234-4e3c-913b-a1ec081093ac.png)
+在官方库找到后，注意阅读，这里可设置开机即启动
+```
+cp /etc/xdg/autostart/fcitx-autostart.desktop ~/.config/autostart/
+```
+截图软件：flameshot   
+设置截图快捷键，点击系统设置-快捷键-自定义快捷键-编辑-新建-全局快捷键-命令/URL，设置动作为flameshot gui，选择想要的快捷按键，保存。    
+Chrome浏览器：google-chrome    
+注意下载后要是不能上网不要着急，在国内被墙了，将默认页面设为百度可以使用。或者使用插件iGG学术助手vip翻墙。   
+## 3.美化系统：   
 
 
