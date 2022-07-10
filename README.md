@@ -89,7 +89,14 @@ cp /etc/xdg/autostart/fcitx-autostart.desktop ~/.config/autostart/
 截图软件：flameshot   
 设置截图快捷键，点击系统设置-快捷键-自定义快捷键-编辑-新建-全局快捷键-命令/URL，设置动作为flameshot gui，选择想要的快捷按键，保存。    
 Chrome浏览器：google-chrome    
-注意下载后要是不能上网不要着急，在国内被墙了，将默认页面设为百度可以使用。或者使用插件iGG学术助手vip翻墙。   
+注意下载后要是不能上网不要着急，在国内被墙了，将默认页面设为百度可以使用。或者使用插件iGG学术助手vip翻墙。  
+### 2.5 删除软件方法 
+sudo pacman -Rns <packagename>
+-R- 是实际的移除选项
+n- 用于删除保存的备份配置文件pacman
+s- 用于删除其他包不需要的给定包的依赖项
+pacman不删除包创建的配置文件等。
+
 ## 3.美化系统：   
 
 
